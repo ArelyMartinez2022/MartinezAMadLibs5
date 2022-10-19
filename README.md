@@ -11,4 +11,5 @@ AGAIN. IF THEY ENTER ANY VERIATION OF YES THE PROGRAM WILL REPLAY.
 AND VISE VERSA FOR NO. HOWEVER IF THEY DONT ENTER ANYTHING BUT THAT 
 IT WILL ASK THE USER OVER AGAIN UNTIL THEY ENTER IN YES OR NO.
 
-PEER REVIEW: Jasmine -- REVIEW
+PEER REVIEW: Jasmine Leek // program runs as expected under all conditions tested, nice work.
+You might consider using title/sentence case for better user accessibility
